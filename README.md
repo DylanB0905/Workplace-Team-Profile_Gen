@@ -23,7 +23,7 @@ You can copy the repo from https://github.com/DylanB0905/Workplace-Team-Profile_
 ## Usage
 Open up an integrated terminal. Then you want to type node index.js. Once you have done that you need to answer all the questions and once you're done your generated html file will be in the dist folder.
 
-    ![alt text](assets/screenshot.png)
+    ![alt text](./assets/screenshot.png)
    
 ## Video of Usage
 
